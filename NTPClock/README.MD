@@ -11,4 +11,14 @@ Use the .ino file and setup the wires as below.
 ![](https://hackster.imgix.net/uploads/attachments/983710/uploads2ftmp2f8c2a9d56-ed9d-41a6-9fcb-8de8e4e029ca2fclock_schematics_EVxnWuasYd.png?w=750&quality=100&strip=all&ssl=1-180x180.png)
 
 
+The Output will be something like this 
+
+
+![](https://repository-images.githubusercontent.com/263081780/aa27ac80-9476-11ea-8b4a-a6e640e4a7a8?w=750&quality=100&strip=all&ssl=1-180x180.png)
+
+
+
+
 For Any Questions Please connect with me. :) 
+
+
