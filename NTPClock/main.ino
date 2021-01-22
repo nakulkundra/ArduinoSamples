@@ -40,7 +40,7 @@ void setup() {
  
   //INSERT YOUR SSID AND PASSWORD HERE
 
-  WiFi.begin("AANetwork","");
+  WiFi.begin("MyNetworkName","MayPassword");
 
   //CHANGE THE POOL WITH YOUR CITY. SEARCH AT https://www.ntppool.org/zone/@
   
