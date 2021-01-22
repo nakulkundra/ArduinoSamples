@@ -30,7 +30,7 @@ int m;
 
 #define DHTTYPE DHT11     // DHT 11
 
-//DHT dht(DHTPIN, DHTTYPE);
+//DHT dht(DHTPIN, DHTTYPE); will be used for Temp Sensor
 
 String t, h;
 
