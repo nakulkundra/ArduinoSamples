@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/nakulkundra/IoT-Samples/main/NTPClock/Banner.png?w=750&quality=100&strip=all&ssl=1-180x180.png)
+
 There are NTP servers like pool.ntp.org that anyone can use to request time as a client. In this case, the ESP32 is an NTP Client that requests time from an NTP Server (pool.ntp.org).
 
 NTP Network Time Protocol ESP32 Request time and date
